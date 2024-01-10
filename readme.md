@@ -4,7 +4,7 @@
 
 > Mục tiêu của chủ đề tài ứng dụng đăng ký, sử dụng và quản lý các chuyến du lịch ở Việt Nam là tạo ra một hệ thống tiện lợi và hiệu quả để người dùng có thể đăng ký, quản lý và
 > tiếp cận thông tin về các chuyến du lịch lịch mạnh mẽ nước. Đây là một ứng dụng winform trên nền tảng công nghệ, nhắm cung cấp cho người dùng một công cụ tìm kiếm, đặt chỗ và
-> quản lý các dịch vụ du lịch.
+> quản lí các dịch vụ du lịch.
 
 ### II. Phân tích thiết kế phần mềm
 
